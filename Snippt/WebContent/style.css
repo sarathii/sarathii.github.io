@@ -1,0 +1,196 @@
+.navstyle {
+	float: right;
+}
+
+.d1 {
+	background-color: #ff6666;
+	color: #ffffff;
+	margin: 0px;
+	padding: 5px;
+}
+.dz
+{
+	background-color: #ff6666;
+	color: #ffffff;
+	margin: 0px;
+	padding: 20px;
+}
+
+hel {
+	padding: 50px 0px 50px 50px;
+}
+
+.navbar-inverse {
+	margin: 0 !important;
+}
+
+.col1 {
+	margin: none;
+}
+
+.button {
+	background-color: #ffff80;
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	border-radius: 100%;
+	font-size: 12px;
+}
+
+a.button:link, a.button:visited {
+	color: #ff6666;
+}
+
+a.button:hover, a.button:active {
+	color: #ff6666;
+	text-decoration: none;
+	background-color: #88ff4d;
+}
+
+a.ln:link, a.ln:visited {
+	color:white;
+	text-decoration: none;
+}
+
+a.ln:hover, a.ln:active {
+	color:white;
+	text-decoration: none;
+}
+
+.glyphicon .glyphicon-plane .fas .fa-utensils {
+	font-size: 75px;
+}
+
+.d2 {
+	background-color: #4d4d4d;
+}
+
+.fas {
+	padding: 10px 0px 10px 40%;
+}
+
+.skew {
+	padding: 20px 0px 5px 35%;
+	margin: auto;
+}
+
+.glyphicon-plane {
+	color: #ff8040;
+	height: 30px;
+	width: 50px;
+}
+
+.bor {
+	border-radius: 50%;
+}
+
+.d3 {
+	background-color: #4d4d4d;
+	padding: 20px;
+}
+
+.carousel-indicators .active {
+	background:#4d4d4d ;
+}
+
+.content {
+	margin-top: 0px;
+}
+
+.adjust1 {
+	float: left;
+	width: 100%;
+	margin-bottom: 0;
+}
+
+.adjust2 {
+	margin: 0;
+}
+
+.carousel-indicators li {
+	border: 1px solid #ccc;
+}
+
+.carousel-control {
+	color: #31708f;
+	width: 5%;
+}
+
+.carousel-control:hover, .carousel-control:focus {
+	color: #ff0080;
+}
+
+.carousel-control.left, .carousel-control.right {
+	background-image: none;
+}
+
+
+.p {
+	line-height: 2em;
+	display: inline;
+	float: left;
+	padding: 30px 10px 3px 10px;
+}
+
+h1 {
+	font-style: italic;
+	text-align: center;
+	padding: 20px 0px 0px 0px;
+}
+
+p {
+	line-spacing: 1.5em;
+	display: inline;
+	float: left;
+	padding: 10px 10px 3px 7px;
+}
+.caro
+{
+	margin:10px 0px 0px 0px;
+}
+.btn1 {
+	width: 200px;
+	height: 40px;
+	background-color: #333333;
+	border: 3px solid #ffffff;
+	color: #ffffff;
+	transform: skew(30deg);
+	margin: auto;
+	display: inline-block;
+}
+
+
+
+
+.fab {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+
+.fa-facebook-f {
+    background: #3B5998;
+    color: white;
+}
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
